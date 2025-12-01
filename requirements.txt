@@ -1,3 +1,2 @@
-aiogram==3.4.1
-aiofiles
+aiogram==3.3.0
 aiosqlite

@@ -1,3 +1,1 @@
-aiogram==3.2.0
-aiofiles
-aiosqlite
+python-3.10.14
